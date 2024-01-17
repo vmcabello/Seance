@@ -12,7 +12,7 @@ Imported.bind = "1.0.7";
  * @help =~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
  * Informações
  * =~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
- * O plugin Bind Pictures To Map permite vincular o movimento das imagens ao
+ * O plugin Bind permite vincular o movimento das imagens ao
  * movimento do mapa, em vez de à câmera. Você também pode alterar em que
  * "camada" uma imagem é desenhada, como abaixo dos personagens ou até abaixo da
  * camada de paralaxe.
